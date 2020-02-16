@@ -5,3 +5,5 @@ New to Git and git hub
 
 adding a new line to github.
  I am from  master branch.
+
+PErforming merge activity
